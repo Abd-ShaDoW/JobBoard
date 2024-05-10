@@ -1,4 +1,10 @@
 # JobBoard
+Backend for Job Board Platform where users can create company and post jobs in the name of that company and track applicants
+or they can apply to jobs and create multiple Cvs for diffrent jobs
+ 
+## Database diagram
+<img src="https://private-user-images.githubusercontent.com/89473131/329680955-d6900df4-6b1c-4ce4-add8-9ae3bc1a27af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUzNjQ5MTYsIm5iZiI6MTcxNTM2NDYxNiwicGF0aCI6Ii84OTQ3MzEzMS8zMjk2ODA5NTUtZDY5MDBkZjQtNmIxYy00Y2U0LWFkZDgtOWFlM2JjMWEyN2FmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEwVDE4MTAxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5ZTAwNjJlNTE0MGZiMmM1MjgxNWM0Yzk2ODE1Y2VhZmNiMTE2ZDQxNzkwM2ExNDgzMzE5NWYwMTEzMzk4NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Uhq73W9zBYaWO3pcoDPqrihMbaDgEztqIU-6SR-KPoA" alt="DataBase diagram" width="75%">
+
 
 ## Tools and Packages
 * Typescript
@@ -6,4 +12,6 @@
 * Prisma(PostgreSQL)
 * Joi
 * jsonWebToken
-* Docker 
+* Docker
+* multer
+

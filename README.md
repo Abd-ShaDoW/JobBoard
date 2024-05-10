@@ -10,8 +10,8 @@ or they can apply to jobs and create multiple Cvs for diffrent jobs
 * Typescript
 * Express
 * Prisma(PostgreSQL)
-* Joi
-* jsonWebToken
 * Docker
+* jsonWebToken
+* joi
 * multer
 

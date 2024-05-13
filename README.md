@@ -14,4 +14,5 @@ or they can apply to jobs and create multiple Cvs for diffrent jobs
 * jsonWebToken
 * joi
 * multer
+* bcrypt
 
